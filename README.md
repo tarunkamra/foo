@@ -1,9 +1,12 @@
-This is I practiced a mobile app development. 
+Mobile app development.
 
-I followed a youtube tutorial.
+followed a youtube tutorial.
 
 
 This is just homescreen .
 
 
-![alt text](images/Simulator-Screenshot-iPhone-16-Pro.png)
+
+
+<img src="images/Simulator-Screenshot-iPhone-16-Pro.png" alt="alt text" width="250" height="250" />
+
