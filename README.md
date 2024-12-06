@@ -8,5 +8,6 @@ This is just homescreen .
 
 
 
-<img src="images/Simulator-Screenshot-iPhone-16-Pro.png" alt="alt text" width="250" height="250" />
 
+
+![alt text](images/Simulator-Screenshot-iPhone-16-Pro.png)
